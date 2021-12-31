@@ -39,7 +39,7 @@ RELASI ONE TO ONE
 }
 
 //SOAL 4
-RELASI ONE TO MANY
+RELASI MANY TO MANY 
 {
     "_id":"ObjectId('DDD')",
     "cinemaName": "CGF",
